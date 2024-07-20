@@ -104,11 +104,11 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manohar-code3&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Manohar-code3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrudulaGajulapalli&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="MrudulaGajulapalli" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Manohar-code3&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Manohar-code3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrudulaGajulapalli&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="MrudulaGajulapalli" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Manohar-code3&theme=dark&background=000000" alt="Manohar-code3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?MrudulaGajulapalli&theme=dark&background=000000" alt="MrudulaGajulapalli" />
   
 </p>
 
@@ -116,5 +116,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Manohar-code3/count.svg" />
+  <img src="https://profile-counter.glitch.me/MrudulaGajulapalli/count.svg" />
 </p>
