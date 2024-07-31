@@ -43,7 +43,7 @@
   <a href="https://www.codechef.com/users/mrudula_2004" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=red&labelColor=black" alt="CodeChef Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/AP21110010981" target="blank">
+  <a href="https://www.hackerrank.com/profile/AP21110010981P" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=red&labelColor=black" alt="HackerRank Badge" style="border: 2px solid gold;"/>
   </a>
   <a href="https://leetcode.com/u/mrudula_gajulapalli/" target="blank">
